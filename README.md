@@ -4,7 +4,7 @@ SEED SPREADING QUADCOPTER
 # Droping mechanism (Yussuf)
 
 # PCB Design (Zuhra)
-here
+![PCB Design](PCB_design.png)
 
 # Sample programs (Dilbara)
 
