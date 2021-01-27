@@ -4,8 +4,10 @@ SEED SPREADING QUADCOPTER
 # Droping mechanism (Yussuf)
 
 # PCB Design (Zuhra)
-PCB Design for dual motor driver TB6612FNG and T-blocks. 
-Motor driver's pins are connected to T-blocks.
+PCB Design for dual motor driver TB6612FNG and T-blocks.<br />
+Motor driver's pins are connected to T-blocks.<br />
+There are 4 holes in PCB, so we can mount it to quadcopter.
+
 ![PCB Design](PCB_design.png)
 
 # Sample programs (Dilbara)
