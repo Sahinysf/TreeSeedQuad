@@ -37,6 +37,7 @@ Advantages of seed balls
 - It requires low maintenance
 
 # Which Seeds used
+Apple Seeds
 
 # Size and weight of the seed capsule
 Size and Weight of seed capsules are very important for this project. 
@@ -44,10 +45,7 @@ After some experiments we decided that best size is maximum 18mm and maximum wei
 
 # Dropping Mechanism
 Designed a Dropping mechanism that can carry 16-18 seed capsules.
-Used small dc motor for the dropping mechanism with 3D printed rack and pinion gear system.
-PCB Designed for dual motor driver TB6612FNG.<br />
-Motor driver's pins are connected to T-blocks.<br />
-There are 4 holes in PCB, so it can be mounted to quadcopter.
+Used small dc motor for the dropping mechanism with 3D printed rack and pinion gear system. PCB Designed for dual motor driver TB6612FNG. Motor driver's pins are connected to T-blocks. There are 4 holes in PCB, so it can be mounted to quadcopter.
 
 ![PCB Design](PCB_design.png)
 
