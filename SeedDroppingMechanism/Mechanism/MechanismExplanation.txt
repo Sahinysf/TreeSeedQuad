@@ -2,12 +2,20 @@ Seed dropping mechanism:
 
 It consists of 2 mini DC motors, 1 dual motor driver TB6612FNG, 3d printed parts: 2 seed capsule tanks, 2 gears, 2 flat gears.
 
+In "Mechanism" folder you can find: 
+    PCB_design.png - PCB design for motor driver and T-blocks. T-blocks so wires can be easily connected and disconnected from it.
+    Schematic.png - it is a circuit and connections of pins of motor driver with motors, Raspberry Pi 4B GPIO pins 
+                    and external voltage for Motors - 5 V from Power Distribution Board of Clever 4 Quadcopter.
+    gear1.stl - 3d model of gear for printing.
+    gear2.stl - 3d model of flat gear for printing.
 
 
 Working principle: 
 
-Seeds is contained in seed capsule tanks on the both sides of quadcopter, motors are connected on down side of seed capsule tank,
-gears are connected to motors and flat gears (they at first close the capsule tank),
-flat gears are hold by gears so when motor moves, flat gears slide and open capsule tank, so seeds will drop.
+Seeds are contained in seed capsule tanks on the both sides of quadcopter, motors are connected on down side of seed capsule tank,
+gears are connected to motors and flat gears, which at first close the capsule tank,
+flat gear is hold by gear, so when motor moves, flat gear slides and opens capsule tank, so seeds will drop.
 
-Motors are connected to motor driver, motor driver is connected to Quadcopter's Raspberry Pi 4 B.
+Motors are connected to motor driver, motor driver is connected to Quadcopter's Raspberry Pi 4B.
+
+The system is controlled by code written in Python language on Raspberry Pi 4B
