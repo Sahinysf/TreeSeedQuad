@@ -1,0 +1,13 @@
+Seed dropping mechanism:
+
+It consists of 2 mini DC motors, 1 dual motor driver TB6612FNG, 3d printed parts: 2 seed capsule tanks, 2 gears, 2 flat gears.
+
+
+
+Working principle: 
+
+Seeds is contained in seed capsule tanks on the both sides of quadcopter, motors are connected on down side of seed capsule tank,
+gears are connected to motors and flat gears (they at first close the capsule tank),
+flat gears are hold by gears so when motor moves, flat gears slide and open capsule tank, so seeds will drop.
+
+Motors are connected to motor driver, motor driver is connected to Quadcopter's Raspberry Pi 4 B.
