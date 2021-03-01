@@ -47,5 +47,5 @@ After some experiments we decided that best size is maximum 18mm and maximum wei
 Designed a Dropping mechanism that can carry 16-18 seed capsules.
 Used small dc motor for the dropping mechanism with 3D printed rack and pinion gear system. PCB Designed for dual motor driver TB6612FNG. Motor driver's pins are connected to T-blocks. There are 4 holes in PCB, so it can be mounted to quadcopter.
 
-![PCB Design](PCB_design.png)
+![PCB Design](Circuit.png)
 
