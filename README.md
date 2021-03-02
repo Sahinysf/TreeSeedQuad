@@ -44,7 +44,7 @@ Size and Weight of seed capsules are very important for this project.
 After some experiments we decided that best size is maximum 18mm and maximum weight is 10 gram 
 
 # Dropping Mechanism
-Designed a Dropping mechanism that can carry 16-18 seed capsules.
+Designed a Dropping tank that can carry 11 seed capsules.
 Used small dc motor for the dropping mechanism with 3D printed rack and pinion gear system. PCB Designed for dual motor driver TB6612FNG. Motor driver's pins are connected to T-blocks. There are 4 holes in PCB, so it can be mounted to quadcopter.
 
 ![PCB Design](Circuit.png)
