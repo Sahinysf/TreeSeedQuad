@@ -3,6 +3,8 @@ SEED SPREADING QUADCOPTER
 
 If you want to make seeding drone from COEX Clover 4.2 drone it is project for you.
 
+[![alt text](https://img.youtube.com/vi/Nz1w59v451U/0.jpg)](https://www.youtube.com/watch?v=Nz1w59v451U "MINIONS CopterHack 2021")
+
 # Aim
 We need to save trees by protecting them from the destructive human activities like clearance of forests, deforestation for urbanization, etc. Trees are the lungs for the earth. It is an important part of nature’s ecosystem. They balance the soil composition and also act as the barrier for wind and storm. Thus, they provide various uses to the ecosystem. For these reasons, it’s imperative that we save trees.
 
