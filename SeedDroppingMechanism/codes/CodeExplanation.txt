@@ -1,9 +1,0 @@
-Code for seed dropping mechanism is written in Python language.
-
-First lines of code is setting pins, values ,importing libraries.
-
-Then it has 5 functions: 
-  runMotor(motor, spd, direction) function sets the speed, direction and motor (it basically runs a specified motor with certain speed and direction).
-  motor1() (First motor) and motor2() (Second motor), they give values (speed, direction, motor) and run runMotor(motor, spd, direction) function for a specified time and runs motorStop() at the end.
-  motorStop() - stops all motors.  
-  main() - takes input integer value. If (1) - first motor runs (motor1() function), if (2) - second motor runs (motor2() function).
