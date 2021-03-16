@@ -30,10 +30,6 @@ We coated our battery to protect it from cold weather, seeding missions need to 
 
 - [Programming](#programming)
 
-## Link for the all files used in this project
-
-<https://github.com/Sahinysf/TreeSeedQuad>
-
 REREFENCES
 
 <https://www.nationalgeographic.com/environment/article/deforestation>
