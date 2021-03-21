@@ -252,7 +252,7 @@ def servo_drop(seconds):   #function to drop seed capsules from 2 tanks
             time.sleep(0.5)
             i = 2                   #changing the variable for to use the second tank in next dropping       
             
-        elif(i == 2):               #first tank
+        elif(i == 2):               #second tank
             pwm2.ChangeDutyCycle(10) # release one seed capsule
             time.sleep(0.5)
             pwm2.ChangeDutyCycle(5) # push then drop the capsule
