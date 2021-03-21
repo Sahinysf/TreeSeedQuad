@@ -30,14 +30,6 @@ We coated our battery to protect it from cold weather, seeding missions need to 
 
 - [Programming](#programming)
 
-REREFENCES
-
-<https://www.nationalgeographic.com/environment/article/deforestation>
-
-<http://www.fao.org/fileadmin/templates/rap/files/NRE/Forestry_Group/Landslide_PolicyBrief.pdf>
-
-<https://earthenginepartners.appspot.com/>
-
 ## Seed capsules
 
 Fukuoka technique
@@ -106,10 +98,6 @@ Advantages of paper balls:
 - Easy to find materils
 - Environmentally friendly
 
-REREFENCES
-
-<https://web.archive.org/web/20090115211020/http://www.rmaf.org.ph/Awardees/Biography/BiographyFukuokaMas.htm>
-<http://www.guerrillagardening.org/ggseedbombs.html>
 
 ## How to assemble seeding mechanism to clover 4.2 drone
 
