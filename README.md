@@ -107,23 +107,23 @@ After finishing step 4, at section Installing guard of Clover 4.2 assembly.
 
 1. Install the Lower Tank Holders to top Deck mount and fix with the M3x8 screws.
 
-    <img src="pictures/mechanismpictures/1.png" alt="" width="400px" class="center"/>
+    <img src="pictures/mechanismpictures/1.PNG" alt="" width="400px" class="center"/>
 
 2. Install Nylon rack(40 mm) to 4 sides of the Deck mount.
 
-    <img src="pictures/mechanismpictures/2.png" alt="" width="400px" class="center"/>
+    <img src="pictures/mechanismpictures/2.PNG" alt="" width="400px" class="center"/>
 
 3. Install the Grab deck and fix with the M3x8 screws.
 
-    <img src="pictures/mechanismpictures/3.png" alt="" width="400px" class="center"/>
+    <img src="pictures/mechanismpictures/3.PNG" alt="" width="400px" class="center"/>
 
 4. Install the Upper Tank Holders to top Grab mount and fix with the M3x8 screws.
 
-    <img src="pictures/mechanismpictures/4.png" alt="" width="400px" class="center"/>
+    <img src="pictures/mechanismpictures/4.PNG" alt="" width="400px" class="center"/>
 
 5. Connect the Tanks carefully to Tank Holders.
 
-    <img src="pictures/mechanismpictures/5.png" alt="" width="400px" class="center"/>
+    <img src="pictures/mechanismpictures/5.PNG" alt="" width="400px" class="center"/>
 
 6. Connect SG90 servo motors to Tank using zip tie.
 
